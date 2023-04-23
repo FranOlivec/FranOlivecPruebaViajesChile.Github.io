@@ -1,0 +1,36 @@
+
+.quienessomos{
+    background-color: black;
+    padding-bottom: 5em;
+    
+}
+
+.quienessomos h2{
+    color: white;
+    text-align: center;
+    padding: 2em;
+    padding-top: 2em;
+    border-color: #ff000073;
+}
+
+.icon1 {
+    height: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgb(2, 200, 250) 
+    
+}
+
+.icon2 {
+    height: 30px;
+    text-align: center;
+    color: white;
+    background-color:  rgb(2, 200, 250)  
+}
+
+.icon3 {
+    height: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgb(2, 200, 250) 
+}
