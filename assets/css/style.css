@@ -1,7 +1,7 @@
 
 .quienessomos{
     background-color: black;
-    padding-bottom: 5em;
+    padding-bottom: 1em;
     
 }
 
@@ -10,7 +10,11 @@
     text-align: center;
     padding: 2em;
     padding-top: 2em;
-    border-color: #ff000073;
+   
+}
+
+.quienessomos p{
+    color: white;
 }
 
 .icon1 {
@@ -34,3 +38,33 @@
     color: white;
     background-color: rgb(2, 200, 250) 
 }
+
+.destacados{
+    background-color: black;
+    padding-bottom: 5em;
+}
+    
+
+.destacados h2{
+    color: white;
+    text-align: center;
+    padding: 2em;
+    padding-top: 2em;
+}
+
+.card-body{
+    background-color: rgb(2, 200, 250);
+}
+
+.card-body h5{
+    color: white;
+}
+
+.card-body p{
+    color: white;
+}
+
+.destacados img{
+    height: 140px;
+}
+
