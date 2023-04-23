@@ -1,4 +1,18 @@
 
+.carousel-inner{
+    background-color: black;
+}
+
+.carousel-img{
+    height: 850px;
+}
+
+
+.navbar.scrolled{
+    transition: background-color 200ms ease-in;
+    background-color: #ffffff
+}
+
 .quienessomos{
     background-color: black;
     padding-bottom: 3em;
@@ -8,9 +22,17 @@
 .quienessomos h2{
     color: white;
     text-align: center;
-    padding: 2em;
+    padding: 1em;
     padding-top: 2em;
-   
+    font-family: 'Raleway', sans-serif;
+
+}
+
+hr{
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 5em;
+    
 }
 
 .quienessomos p{
@@ -48,8 +70,10 @@
 .destacados h2{
     color: white;
     text-align: center;
-    padding: 2em;
+    padding: 1em;
     padding-top: 2em;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .card-body{
@@ -58,10 +82,14 @@
 
 .card-body h5{
     color: white;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .card-body p{
     color: white;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .destacados img{
@@ -78,7 +106,25 @@
     color: white;
     text-align: center;
     padding: 1em;
+    font-family: 'Raleway', sans-serif;
+
     
 }
-    
-    
+
+
+.piedepagina{
+    height: 5em;
+    background-color: rgb(2, 200, 250) ;
+    justify-content: center;
+}
+
+.piedepagina p{
+    margin-bottom: 0%;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.piedepagina i{
+    color: white;
+}
