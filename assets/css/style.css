@@ -1,7 +1,7 @@
 
 .quienessomos{
     background-color: black;
-    padding-bottom: 1em;
+    padding-bottom: 3em;
     
 }
 
@@ -41,7 +41,7 @@
 
 .destacados{
     background-color: black;
-    padding-bottom: 5em;
+    padding-bottom: 3em;
 }
     
 
@@ -68,3 +68,17 @@
     height: 140px;
 }
 
+.contacto{
+    background-color: black;
+    padding-bottom: 3em;
+    color: white;
+}
+
+.contacto h2{
+    color: white;
+    text-align: center;
+    padding: 1em;
+    
+}
+    
+    
